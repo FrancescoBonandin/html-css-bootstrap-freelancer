@@ -7,7 +7,16 @@ ul{
     filter: invert(1);
 }
 
+.green-bg{
+    background-color: var(--green-bg);
+}
+
+.header-footer-bg{
+    background-color: var(--header-footer-bg);
+}
 
 
-
+.star{
+    font-size: 1.5rem;
+}
 
